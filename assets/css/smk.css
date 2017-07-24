@@ -1,0 +1,26 @@
+.container{
+	padding:10px 10px 10px 10px;
+	background-color:#e3e3e3;
+	border-radius:10px;
+	
+}
+.kanan{
+	padding:10px 10px 10px 10px;
+	
+}
+.kanan img{
+	height:350px;
+	width:350px;
+}
+.kiri{
+	background-color:white;
+	//padding: 20px 20px 400px  20px;	
+}
+.bawah{
+	background-color:brown;
+	padding : 10px 10px 10px 10px;
+}
+.welcome{
+	font-size:20px;
+	font-family:arial;
+}

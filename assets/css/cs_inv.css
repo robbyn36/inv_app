@@ -1,0 +1,31 @@
+.alert-hapus{
+	font-family: "Arial Black", Gadget, sans-serif;
+	text-align: center;
+}
+
+.form-konfirmasi{
+	max-width:1151px;
+	overflow:auto;
+	/*background-color: red;*/
+}
+
+.hilight{
+	background: yellow;
+}
+.tabel_keluar{
+	overflow-x:scroll;
+    table-layout: fixed;
+}
+#tabel_out{
+	/*min-width: 	100px; */
+	width:2500px;
+}
+#tabel_out>th,td{
+	padding: 5px 5px 5px 5px;
+	/*border: 10px 10px 10px 10px;*/
+	/*margin: 20px 20px 20px 20px;*/
+}
+.heading-tabel{
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
