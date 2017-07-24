@@ -9,3 +9,6 @@ class C_user extends CI_Controller {
 	public function index(){
 		var_dump("welcome to user controller");
 	}
+	public function add_user(){
+		var_dump("Controller untuk add user nantinya");
+	}
