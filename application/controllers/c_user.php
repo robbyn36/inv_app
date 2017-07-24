@@ -15,3 +15,7 @@ class C_user extends CI_Controller {
 	public function delete_user(){
 		var_dump("function untuk delete user");
 	}
+	public function edit_user(){
+		//fungsi untuk edit
+		var_dump("function untuk mengedit user yang ada");
+	}
